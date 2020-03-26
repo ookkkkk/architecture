@@ -1,10 +1,6 @@
 # architecture
-It's a simple and basic presentation of my workspace. Provided by mstx (Abel Axel)
-@@ -1,2 +1,36 @@
-# achitectures
- # architecture It's a simple and basic presentation of my workspace. Provided by mstx (Abel Axelpasson
- 
-# architecture It's a simple and basic presentation of my workspace. Provided by mstx (Abel Axel)
+
+#It's a simple and basic presentation of my workspace. Provided by mstx (Abel Axel)
 
 #pr�sentation du contenu
 
