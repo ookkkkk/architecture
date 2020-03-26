@@ -2,35 +2,35 @@
 
 #It's a simple and basic presentation of my workspace. Provided by mstx (Abel Axel)
 
-#pr�sentation du contenu
+#présentation du contenu
 
 dossiers 
 
-vendor : contient tous ls cont�nus �trangers et frameworks
+vendor : contient tous les contenus étrangers et frameworks
 
-database : ensemble de fichiers confidentiels contenant m�me le controller e tle rooter
+database : ensemble de fichiers confidentiels contenant même le controller et le rooter
 
-output: enemble de fichiers confidentiels contenant les informations de onnexion � la base de donn�e
+output: ensemble de fichiers confidentiels contenant les informations de connexion à la base de donnée
  
-phpscripts : ensemble de nos fonction simple �crites en phpscripts
+phpscripts : ensemble de nos fonction simple écrites en phpscripts
 
 
 
-providers : g�n�ralement les fichiers php utilis�s par ajax
+providers : généralement les fichiers php utilisées par ajax
 			
 			providers/data-fetch : ensemble des getters
 			
-			providers/executes : fichiers d'ex�cution
+			providers/executes : fichiers d'exécution
 			
-			providers/uptodates : fichiers de mise � jour
+			providers/uptodates : fichiers de mise à jour
 			
-ressources : difficile � expliquer entrond � l'int�rieur
+ressources : difficile à expliquer entrons à l'intérieur
 			
-			ressources/media : tous les m�dias dont les images, les document pdf, les vid�os...
+			ressources/media : tous les médias dont les images, les document pdf, les vidéos...
 			ressources/public : contient les fonts, les fichiers css et js
-			ressources/contents/lang : nos pas � charger
+			ressources/contents/lang : nos pas à charger
 			ressources/define_zone: nos menus et pied de page
 			ressources/define_zone/class : nos classes
 
-le fichier .htaccess est utilis� pour la configuration du serveur
+le fichier .htaccess est utilisé pour la configuration du serveur
 
